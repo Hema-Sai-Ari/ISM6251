@@ -2,7 +2,7 @@
 
 This repository contains the in-class examples, data and exercise files for each week of my course work for a period of 11 weeks.
 
-##Description
+## Description
 The repository contains folders for each week of the course. Each week's folder contains the following subfolders:
 
 **In-Class-Examples** - This folder contains the in-class examples that were presented during the week's lecture.
