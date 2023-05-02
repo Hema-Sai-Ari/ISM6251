@@ -11,8 +11,8 @@ The repository contains folders for each week of the course. Each week's folder 
 
 **Exercises** - This folder contains the exercises that were assigned during the week(both In cass exercises(IC) and weekly Exercises(WE)).
 
-#Usage
+## Usage
 This repository can be used as a resource to review the in-class examples and exercises from each week of the course. The data files can also be used to practice analyzing data using the tools learned during the course.
 
-##Contributing
+## Contributing
 Contributions to this repository are not accepted as this is a personal repository for course work. However, suggestions and feedback are welcome.
